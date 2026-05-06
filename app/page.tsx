@@ -250,9 +250,8 @@ export default function Home() {
         <div style={{ maxWidth: '560px', margin: '3.5rem auto 0', textAlign: 'center', padding: '2.5rem 2rem', background: '#fffef9', borderRadius: '24px', border: '1px solid #d4e8c8' }}>
           <div style={{ fontSize: '28px', marginBottom: '1rem' }}>🌸</div>
           <p style={{ fontSize: '15px', color: '#3a5a3a', lineHeight: '1.9', marginBottom: '1.25rem' }}>
-            hi im mariam murabit, and I built this because I kept missing my local market:
-            wrong day, wrong time, no idea what was even in season.
-            this is my small fix for that. I hope it gets you outside and eating something grown nearby.
+            hi im mariam murabit, and I built this to make it easier to keep up with local markets and what’s in season.
+            I hope it helps you get outside and eat more locally.
           </p>
           <p style={{ fontSize: '15px', color: '#7a9e7a', fontStyle: 'italic', marginBottom: '6px' }}>
             "The earth laughs in flowers."
